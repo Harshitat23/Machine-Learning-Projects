@@ -1,1 +1,2 @@
 # Machine-Learning-Projects
+Mental Health includes our emotional, psychological and social well-being. Mental Fitness helps individual manage stress, improve focus and determined to maintain relations. This project works on predefined dataset of Disabilty Adjusted Life Years(DALY) and various disorders. Mental Fitness Tracker uses algorithms such as Linear Regression and Random Forest to gain insights and predictions from the data.
